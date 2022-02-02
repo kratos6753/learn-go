@@ -1,4 +1,4 @@
-# Learn ![Image GoLang](go-image-white.png)
+# Learn ![Image GoLang](go-logo-white.png)
 #### I am adopting the mentality of learn by doing
 
 #### I will update the blogs / videos I come across in this repo. I will also create tiny projects & tinker with code written by others to learn a little bit more every day.
