@@ -1,4 +1,4 @@
-# Learn <img src="https://go.dev/images/go-logo-white.svg" alt="drawing" width="80" style="position: relative; top: 5px; left: -5px;"/>
+# Learn <img src="./go-logo-white.svg" alt="drawing" width="80" style="position: relative; top: 5px; left: -5px;"/>
 #### I am adopting the mentality of learn by doing
 
 #### I will update the blogs / videos I come across in this repo. I will also create tiny projects & tinker with code written by others to learn a little bit more every day.
